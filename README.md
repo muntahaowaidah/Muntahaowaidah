@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Muntaha Owaidah 👋
 
-<!--
-**muntahaowaidah/Muntahaowaidah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about creativity, design, and building meaningful projects.  
+Currently exploring the world of branding, marketing, and digital tools.
 
-Here are some ideas to get you started:
+### 🎓 Projects I've Worked On:
+- **University Branding Campaign:** Designed brochures and promotional materials to support a campus-wide branding initiative.
+- **Abaya Business Launch:** Co-founded a fashion project focused on modern abaya designs, handling product design and marketing strategies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Interests:
+- Branding & Marketing
+- Design & Visual Communication
+- Learning new tools like GitHub, Canva, and Notion
+
+### 📫 Let's Connect!
+- [LinkedIn](http://linkedin.com/in/muntaha-owaidah)
+- [Email](muntaha1999owaidah@gmail.com)
